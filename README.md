@@ -40,6 +40,3 @@ This project focuses on validating payroll calculations and identifying discrepa
 - SQL Queries (.sql)
 - Dashboard Screenshot
 
-🔗 Project Link
-
-(Add your Google Drive link here)
